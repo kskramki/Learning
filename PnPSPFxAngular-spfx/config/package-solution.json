@@ -1,0 +1,13 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "pn-psp-fx-angular-spfx-client-side-solution",
+    "id": "e29a975e-220a-4748-a654-6c8aff217eba",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": true,
+    "isDomainIsolated": true
+  },
+  "paths": {
+    "zippedPackage": "solution/pn-psp-fx-angular-spfx.sppkg"
+  }
+}

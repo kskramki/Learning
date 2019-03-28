@@ -1,0 +1,14 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "version": "1.8.0",
+    "libraryName": "pn-psp-fx-angular-spfx",
+    "libraryId": "e29a975e-220a-4748-a654-6c8aff217eba",
+    "environment": "spo",
+    "packageManager": "npm",
+    "solutionName": "PnPSPFxAngular-spfx",
+    "framework": "none",
+    "isCreatingSolution": true,
+    "isDomainIsolated": true,
+    "componentType": "webpart"
+  }
+}
